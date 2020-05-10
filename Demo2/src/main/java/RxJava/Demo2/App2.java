@@ -25,5 +25,9 @@ public class App2 {
 	public void localFinal() {
 		System.out.println("local final");
 	}
+	
+	public void localMaster() {
+		System.out.println("local master");
+	}
 
 }
