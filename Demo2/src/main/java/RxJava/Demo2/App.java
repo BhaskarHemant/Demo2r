@@ -17,7 +17,7 @@ public class App
     	String s="local String";
     }
     
-    public void m1() {
+    public void m2() {
     	String s="Remote String";
     }
 }
