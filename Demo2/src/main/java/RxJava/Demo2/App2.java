@@ -9,6 +9,10 @@ public class App2 {
 	public void remoteMethod() {
 		System.out.println("remote");
 	}
+	
+	public void localB1() {
+		System.out.println("local b1");
+	}
 
 
 }
