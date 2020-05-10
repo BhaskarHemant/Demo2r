@@ -26,10 +26,13 @@ public class App2 {
 		System.out.println("local final");
 	}
 	
+<<<<<<< HEAD
 	public void localMaster() {
 		System.out.println("local master");
 	}
 	
+=======
+>>>>>>> branch 'master' of https://github.com/BhaskarHemant/Demo2r.git
 	public void remoteMaster2() {
 		System.out.println("remote master2");
 	}
