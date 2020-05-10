@@ -2,7 +2,7 @@ package RxJava.Demo2;
 
 /**
  * Hello world!
- * local
+ * Remote
  *
  */
 public class App 
