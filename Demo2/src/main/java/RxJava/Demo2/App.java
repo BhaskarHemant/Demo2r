@@ -3,6 +3,7 @@ package RxJava.Demo2;
 /**
  * Hello world!
  * local
+ * Remote
  *
  */
 public class App 
@@ -14,5 +15,9 @@ public class App
     
     public void m1() {
     	String s="local String";
+    }
+    
+    public void m1() {
+    	String s="Remote String";
     }
 }
