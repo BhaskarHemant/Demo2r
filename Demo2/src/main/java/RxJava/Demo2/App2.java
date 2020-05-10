@@ -5,6 +5,10 @@ public class App2 {
 	public void mLocal() {
 		System.out.println("local");
 	}
+	
+	public void mRemote() {
+	System.out.println("Remote");
+	}
 
 	public void localMethod() {
 		System.out.println("local");
